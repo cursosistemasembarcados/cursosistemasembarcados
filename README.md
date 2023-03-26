@@ -4,7 +4,7 @@
 - **Cursos gratuitos**: 
 - **Ferramentas online**: 
 - **Ferramentas gratuitas p/ instalar**:
-- **Bases de informações e notícias na área**:
+- [**Bases de informações e notícias na área**](https://github.com/cursosistemasembarcados/dicas/blob/main/bases.md) 
 ---
 ### CONTATO
 - **SITE OFICIAL DO CURSO**: [www.fatecjd.edu.br/se](http://www.fatecjd.edu.br/se)
