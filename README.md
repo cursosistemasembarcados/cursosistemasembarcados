@@ -1,9 +1,9 @@
 ## REPOSITÓRIO DO CURSO DE SISTEMAS EMBACADOS DA FATEC JUNDIAÍ
 
 ### MENU DE ACESSO RÁPIDO
-- **Cursos gratuitos**: 
-- **Ferramentas online**: 
-- **Ferramentas gratuitas p/ instalar**:
+- [**Cursos gratuitos**](https://github.com/cursosistemasembarcados/dicas/blob/main/cursos.md)
+- [**Livros e Revistas**](https://github.com/cursosistemasembarcados/dicas/blob/main/livros.md)
+- [**Ferramentas**](https://github.com/cursosistemasembarcados/dicas/blob/main/ferramentas_online.md)
 - [**Bases de informações e notícias na área**](https://github.com/cursosistemasembarcados/dicas/blob/main/bases.md) 
 ---
 ### CONTATO
