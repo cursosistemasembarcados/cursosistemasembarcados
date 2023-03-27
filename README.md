@@ -7,6 +7,8 @@
 - [**Bases de informações e notícias na área**](https://github.com/cursosistemasembarcados/dicas/blob/main/bases.md) 
 - **Projetos**
   - [**Braço Robótico**](https://github.com/cursosistemasembarcados/braco_robotico)
+  - [**Estação meteorológica (2a versão)**](https://github.com/cursosistemasembarcados/estacao2.0)
+  - [**Estação meteorológica (3a versão)**](https://github.com/cursosistemasembarcados/estacao3.0)
 ---
 ### CONTATO
 - **SITE OFICIAL DO CURSO**: [www.fatecjd.edu.br/se](http://www.fatecjd.edu.br/se)
