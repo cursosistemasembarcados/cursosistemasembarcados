@@ -6,7 +6,7 @@
 - [**Ferramentas**](https://github.com/cursosistemasembarcados/dicas/blob/main/ferramentas_online.md)
 - [**Bases de informações e notícias na área**](https://github.com/cursosistemasembarcados/dicas/blob/main/bases.md) 
 - **Projetos**
-  - [**Braço Robótico](https://github.com/cursosistemasembarcados/braco_robotico)
+  - [**Braço Robótico**](https://github.com/cursosistemasembarcados/braco_robotico)
 ---
 ### CONTATO
 - **SITE OFICIAL DO CURSO**: [www.fatecjd.edu.br/se](http://www.fatecjd.edu.br/se)
