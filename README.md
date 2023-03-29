@@ -9,6 +9,7 @@
   - [**Braço Robótico**](https://github.com/cursosistemasembarcados/braco_robotico)
   - [**Estação meteorológica (2a versão)**](https://github.com/cursosistemasembarcados/estacao2.0)
   - [**Estação meteorológica (3a versão)**](https://github.com/cursosistemasembarcados/estacao3.0)
+  - [**Esteira coletora (1a versão)**](https://github.com/cursosistemasembarcados/esteira1.0)
 ---
 ### CONTATO
 - **SITE OFICIAL DO CURSO**: [www.fatecjd.edu.br/se](http://www.fatecjd.edu.br/se)
